@@ -1,0 +1,9 @@
+#logging:
+#  level:
+#    root: trace
+
+server:
+  port: 7070
+
+
+
